@@ -3,7 +3,6 @@ function Paragraphs() {
             <div>
             <p>Hello</p>
             <p>Hei</p>
-            
             </div>
             
     )
